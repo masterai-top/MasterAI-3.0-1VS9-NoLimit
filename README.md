@@ -36,4 +36,4 @@ MasterAI-3.0 是Master AI 团队研发出来的1对多的AI，1对1,1对2,1对3�
 6、搜索时长优化（1第多的AI决策在6毫秒~10毫秒）
 
 
-对Master AI 3.0训练模型和AI算法感兴趣或者有意购买合作者，可以联系 Telegram:@alibaba401
+对Master AI 3.0训练模型和AI算法感兴趣或者有意购买AI源代码合作者，可以联系 Telegram:@xuzongbin001
